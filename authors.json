@@ -1,0 +1,27 @@
+{
+	"authors":[
+  {
+    "id": "Author_1",
+    "name": "Johan Adam",
+    "text": "Kendi hikayelerimi paylaşıyorum konuştuğum kadınlardan izin almadan yazdığım için yer ve şahıs isimleri uydurma anlatılanlar gerçektir  ve ben bunları paylaşmaktan acaip keyif alıyorum siz de beni desteklerseniz daha fazla paylaşım yaparım umarım hoşunuza gider beni desteklemeyi unutmayın arkadaşlar \n İnstagram adresim : johnadam_ \n\n Görüşmek üzere :)",
+    "image": "https://pbs.twimg.com/media/EQGi5YbXUAAn9Qa?format=jpg&name=360x360"
+
+  },
+
+  {
+    "id": "Author_2",
+    "name": "Nilüfer İçoğlu",
+    "text": "Chat hikayeleri yazmaya yeni başladım umarım hikayelerimi beğenirsiniz. devamı gelecek",
+    "image": "https://pbs.twimg.com/media/EQGjF3UWoAA2LP1?format=jpg&name=360x360"
+
+  },
+
+  {
+    "id": "Author_3",
+    "name": "Fatoş Gültekin",
+    "text": "Ben evlenmeye karar verdim sanalda yaşayamadığım ama okumayı sevdiğim hikayeleri burada paylaşıyorum",
+    "image": "https://pbs.twimg.com/media/EQGjVT8X0AQSW_w?format=jpg&name=360x360"
+
+  }
+]
+}
