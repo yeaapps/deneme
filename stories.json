@@ -1,0 +1,36 @@
+{
+  "stories": [
+    
+  {
+    "id": "story_1",
+    "authorId": "Johan Adam",
+    "title": "Sibel ve Kemal'in Hikayesi",
+    "text": "Sibel bekar bir anne, Kemal yalnız yaşayan biri. Hayatlarındaki eksiği birlikte tamamlıyorlar.  Burada ilişkilerinin başladığı ana tanıklı ediyoruz...",
+    "image": "https://pbs.twimg.com/media/EQGi5YbXUAAn9Qa?format=jpg&name=360x360"
+
+  },
+
+
+
+  {
+    "id": "story_2",
+    "authorId": "Johan Adam",
+    "title": "Ela ve Hilmi",
+    "text": "Ela'nın bize gönderdiği hikayeyi sizlerle paylaşıyoruz",
+    "image": "https://pbs.twimg.com/media/EQGjMaeXkAUaTMo?format=jpg&name=360x360"
+
+  },
+
+
+  {
+    "id": "story_3",
+    "authorId": "Johan Adam",
+    "title": "Ela ve Hilmi",
+    "text": "Ela'nın bize gönderdiği hikayeyi sizlerle paylaşıyoruz",
+    "image": "https://pbs.twimg.com/media/EQGjMaeXkAUaTMo?format=jpg&name=360x360"
+
+  }
+
+
+]
+}
