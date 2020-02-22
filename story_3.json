@@ -1,0 +1,365 @@
+{
+  "story_3":[
+  {
+    "id": "author",
+    "name": "",
+    "text": "Sibel bekar bir anne, Kemal yalnız yaşayan biri. Hayatlarındaki eksiği birlikte tamamlıyorlar.  Burada ilişkilerinin başladığı ana tanıklı ediyoruz...",
+    "emoji": "",
+    "image": ""
+  },
+  {
+    "id": "0",
+    "name": "Kemal",
+    "text": "Merhaba nasılsın?",
+    "emoji": "",
+    "image": ""
+  },
+  {
+    "id": "1",
+    "name": "Sibel",
+    "text": "Merhaba iyim teşekkürler siz nasılsınız?",
+    "emoji": "",
+    "image": ""
+  },
+  {
+    "id": "0",
+    "name": "Kemal",
+    "text": "iyiyim teşekkürler",
+    "emoji": "",
+    "image": ""
+  },
+  {
+    "id": "0",
+    "name": "Kemal",
+    "text": "Tanışmak ister misin?",
+    "emoji": "",
+    "image": ""
+  },
+  {
+    "id": "1",
+    "name": "Sibel",
+    "text": "Olur buyrun",
+    "emoji": "",
+    "image": ""
+  },
+  {
+    "id": "1",
+    "name": "Sibel",
+    "text": "Tanışalım",
+    "emoji": "",
+    "image": ""
+  },
+  {
+    "id": "1",
+    "name": "Sibel",
+    "text": "",
+    "emoji": "\uD83D\uDE09",
+    "image": ""
+  },
+  {
+    "id": "0",
+    "name": "Kemal",
+    "text": "",
+    "emoji": "\uD83D\uDE0A",
+    "image": ""
+  },
+  {
+    "id": "0",
+    "name": "Kemal",
+    "text": "Benim adım Emre",
+    "emoji": "",
+    "image": ""
+  },
+  {
+    "id": "1",
+    "name": "Sibel",
+    "text": "Öykü bende",
+    "emoji": "",
+    "image": ""
+  },
+  {
+    "id": "0",
+    "name": "author",
+    "text": "Memnun oldum Öykü \uD83D\uDE0A",
+    "emoji": "",
+    "image": ""
+  },
+  {
+    "id": "1",
+    "name": "author",
+    "text": "Meslek ne?",
+    "emoji": "",
+    "image": ""
+  },
+  {
+    "id": "1",
+    "name": "author",
+    "text": "Aradığınız ne burada?",
+    "emoji": "",
+    "image": "https://pbs.twimg.com/media/EQGjF3UWoAA2LP1?format=jpg&name=360x360"
+  },
+  {
+    "id": "0",
+    "name": "author",
+    "text": "Anlaşabileceğim birini arıyorum",
+    "emoji": "",
+    "image": ""
+  },
+  {
+    "id": "0",
+    "name": "author",
+    "text": "Aslında aramaktan vazgeçmiştim",
+    "emoji": "",
+    "image": ""
+  },
+  {
+    "id": "1",
+    "name": "author",
+    "text": "aaa",
+    "emoji": "",
+    "image": ""
+  },
+  {
+    "id": "1",
+    "name": "author",
+    "text": "Niye?",
+    "emoji": "",
+    "image": ""
+  },
+  {
+    "id": "0",
+    "name": "author",
+    "text": "Bulamayacak mışım gibi geliyor",
+    "emoji": "",
+    "image": ""
+  },
+  {
+    "id": "0",
+    "name": "author",
+    "text": "Uzun zamandır girmiyordum",
+    "emoji": "",
+    "image": ""
+  },
+  {
+    "id": "1",
+    "name": "author",
+    "text": "Sapık çok",
+    "emoji": "",
+    "image": ""
+  },
+  {
+    "id": "1",
+    "name": "author",
+    "text": "Burada",
+    "emoji": "",
+    "image": ""
+  },
+  {
+    "id": "1",
+    "name": "author",
+    "text": "Evli misiniz?",
+    "emoji": "",
+    "image": ""
+  },
+  {
+    "id": "0",
+    "name": "author",
+    "text": "Hayır",
+    "emoji": "",
+    "image": ""
+  },
+  {
+    "id": "0",
+    "name": "author",
+    "text": "Anlıyorum",
+    "emoji": "",
+    "image": ""
+  },
+  {
+    "id": "1",
+    "name": "author",
+    "text": "Ne iş yapıyorsunuz?",
+    "emoji": "",
+    "image": ""
+  },
+  {
+    "id": "0",
+    "name": "author",
+    "text": "Özel bir şirkette çalışıyorum",
+    "emoji": "",
+    "image": ""
+  },
+  {
+    "id": "1",
+    "name": "author",
+    "text": "Memurum bende",
+    "emoji": "",
+    "image": ""
+  },
+  {
+    "id": "1",
+    "name": "author",
+    "text": "Lüleburgaz da",
+    "emoji": "",
+    "image": ""
+  },
+  {
+    "id": "1",
+    "name": "author",
+    "text": "Aslen Edirne liyim",
+    "emoji": "",
+    "image": ""
+  },
+  {
+    "id": "0",
+    "name": "author",
+    "text": "Ben de aslen Samsun luyum",
+    "emoji": "",
+    "image": ""
+  },
+  {
+    "id": "1",
+    "name": "author",
+    "text": "Neresinde",
+    "emoji": "",
+    "image": ""
+  },
+  {
+    "id": "0",
+    "name": "author",
+    "text": "Zeytinburnu",
+    "emoji": "",
+    "image": ""
+  },
+  {
+    "id": "1",
+    "name": "author",
+    "text": "İstanbul a geliyorum",
+    "emoji": "",
+    "image": ""
+  },
+  {
+    "id": "0",
+    "name": "author",
+    "text": "Şuan buradayım",
+    "emoji": "",
+    "image": ""
+  },
+  {
+    "id": "0",
+    "name": "author",
+    "text": "Çok sık gelir misin",
+    "emoji": "",
+    "image": ""
+  },
+  {
+    "id": "1",
+    "name": "author",
+    "text": "Ehh",
+    "emoji": "",
+    "image": ""
+  },
+  {
+    "id": "1",
+    "name": "author",
+    "text": "niye",
+    "emoji": "",
+    "image": ""
+  },
+  {
+    "id": "0",
+    "name": "author",
+    "text": "görüşebilir miyiz diye",
+    "emoji": "",
+    "image": ""
+  },
+  {
+    "id": "0",
+    "name": "author",
+    "text": "Yani muhabbet ilerlerse",
+    "emoji": "",
+    "image": ""
+  },
+  {
+    "id": "1",
+    "name": "author",
+    "text": "Anladım",
+    "emoji": "",
+    "image": ""
+  },
+  {
+    "id": "1",
+    "name": "author",
+    "text": "Ailenle misin?",
+    "emoji": "",
+    "image": ""
+  },
+  {
+    "id": "0",
+    "name": "author",
+    "text": "Hayır onlar Samsun da",
+    "emoji": "",
+    "image": "https://pbs.twimg.com/media/EQGlZ0NWAAIqQ4A?format=jpg&name=large"
+  },
+  {
+    "id": "0",
+    "name": "author",
+    "text": "Yalnız yaşıyorumn",
+    "emoji": "",
+    "image": ""
+  },
+  {
+    "id": "1",
+    "name": "author",
+    "text": "Evlilik olmadı mı hiç",
+    "emoji": "",
+    "image": ""
+  },
+  {
+    "id": "0",
+    "name": "author",
+    "text": "Olmadı",
+    "emoji": "",
+    "image": ""
+  },
+  {
+    "id": "0",
+    "name": "author",
+    "text": "Senin oldu mu?",
+    "emoji": "",
+    "image": ""
+  },
+  {
+    "id": "1",
+    "name": "author",
+    "text": "Evet",
+    "emoji": "",
+    "image": "https://pbs.twimg.com/media/EQGl8AWWAAAvVXQ?format=jpg&name=medium"
+  },
+  {
+    "id": "1",
+    "name": "author",
+    "text": "onbeş yıl önce",
+    "emoji": "",
+    "image": ""
+  },
+
+
+
+
+
+
+
+
+
+
+
+  {
+    "id": "end",
+    "name": "",
+    "text": "Sohbet bitti",
+    "emoji": "",
+    "image": ""
+  }
+ ]
+}
